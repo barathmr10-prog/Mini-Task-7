@@ -1,4 +1,4 @@
-# Task_8-Chat_bot
+# Mini Task 7
 
 I have created two funtions as bot and response
 I got the input and give some common response from bot with predefined statement using condition.
